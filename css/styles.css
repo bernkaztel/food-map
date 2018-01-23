@@ -1,0 +1,85 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(238, 238, 238);
+}
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.imgrest {
+    width: 30vh;
+    height: 20vh;
+}
+
+.restaurantname {
+    font-weight: bolder;
+    font-size: 2.5vh;
+    margin-left: 5vh;
+}
+
+.stars {
+    margin-right: 5vh;
+    font-size: 2.5vh;
+}
+
+.btn {
+    background-color: rgb(228, 228, 228)
+}
+
+#splashscreen {
+    height: 100vh;
+    width: 100%;
+    background-image: url(../assets/images/splash.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar {
+    height: 15vh;
+    background-color: white;
+}
+
+
+/* Estilo de logo */
+
+.nvbr {
+    display: inline-block;
+    width: 110px;
+}
+
+#banner {
+    height: 25vh;
+    width: 100%;
+    background-image: url(../assets/images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bolder;
+    color: #0f171f;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+
+.bordermap {
+    width: 90%;
+    border: 4px white solid;
+    height: 34vh;
+    margin: 5%;
+}
+
+#map {
+    height: 30vh;
+    margin-top: 4%;
+}
+
+
+.marginbottom{
+    margin-bottom: 5vh;
+}
